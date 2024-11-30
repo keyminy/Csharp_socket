@@ -1,0 +1,59 @@
+## Ignore Visual Studio temporary files, directories, and build results
+.vs/
+.vscode/
+.idea/
+
+# User-specific files for Visual Studio
+.vs2019/
+.vs2017/
+.vs/
+
+# User-specific files for Rider
+.idea/
+
+# User-specific files for Visual Studio Code
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]eploy/
+[Dd]ebug-x86/
+[Dd]ebug-x64/
+[Dd]ebug-AnyCPU/
+[Dd]ist/
+[Dd]eploy/
+
+# .NET Core and .NET Framework directories
+bin/
+obj/
+
+# ASP.NET Core web application
+wwwroot/
+
+# Rider config folder
+.idea/
+
+# ASP.NET specific files
+project.lock.json
+project.fragment.lock.json
+
+# Tye configuration for microservices (if used)
+.tye/
+
+# .NET Core dependency cache
+.nuget/
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer log files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer cache
+*.<2013vst>*
